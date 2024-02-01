@@ -32,3 +32,5 @@ st.write(
 df = pd.read_csv('bank.csv')
 
 st.dataframe(df.head())
+
+st.write(""" Je crois que j'ai reussi à avoir un streamlit live, Si c'est le cas dite moi si vous arrivez a le voir par message""")
