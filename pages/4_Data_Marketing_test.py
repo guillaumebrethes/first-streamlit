@@ -25,9 +25,7 @@ from streamlit.hello.utils import show_code
 st.set_page_config(page_title="Ma page 4", page_icon="📊")
 st.markdown("# Ma page 4")
 st.sidebar.header("Ma page 4")
-st.write(
-    """CECI est ma 4 page """
-)
+st.write("""CECI est ma 4 page """)
 
 df = pd.read_csv('bank.csv')
 
@@ -35,3 +33,5 @@ st.dataframe(df.head())
 
 st.write(""" Je crois que j'ai reussi à avoir un streamlit live, Si c'est le cas dite moi si vous arrivez a le voir par message""")
 st.write(""" Voici mon second test""")
+st.write(""" Ceci est la premire demo de préseantation""")
+
