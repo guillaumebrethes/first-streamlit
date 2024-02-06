@@ -33,5 +33,5 @@ st.dataframe(df.head())
 
 st.write(""" Je crois que j'ai reussi à avoir un streamlit live, Si c'est le cas dite moi si vous arrivez a le voir par message""")
 st.write(""" Voici mon second test""")
-st.write(""" Ceci est une simulation de conflit""")
+st.write(""" Ceci est une simulation de conflit 2""")
 
