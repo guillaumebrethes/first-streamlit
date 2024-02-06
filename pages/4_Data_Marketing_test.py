@@ -35,4 +35,4 @@ st.write(""" Je crois que j'ai reussi à avoir un streamlit live, Si c'est le ca
 st.write(""" Voici mon second test""")
 st.write(""" Ceci est une simulation de conflit du pull""")
 
-st.write(""" Ceci est du code sur ma branche Guillaume""")
+st.write(""" Ceci est CREATION D UN CONFLIT Guillaume""")
